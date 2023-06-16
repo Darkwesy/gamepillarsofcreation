@@ -1,3 +1,3 @@
 # Pillars Of Creation
 Projeto de game desenvolvido utilizando C para a disciplina de Logica de Programação no curso de Desenvolvimento de Sistemas no SENAI-BA.
-![LINGUAGEM](http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw1W20WOdqsoEzjbx55bGte6&ust=1686974500021000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiMgfDzxv8CFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw1W20WOdqsoEzjbx55bGte6&ust=1686974500021000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiMgfDzxv8CFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
+!(https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
