@@ -1,1 +1,12 @@
-
+.containerTechs {
+    display: grid;
+}
+.container-logos img {
+    max-height: 100%;
+    width: 4%;
+    padding: 2px;
+    transition: 2s;
+}
+.container-logos img:hover{
+    transform: scale(1.1);
+}
